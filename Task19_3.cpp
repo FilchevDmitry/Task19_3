@@ -31,7 +31,7 @@ int main()
     }
     else
     {
-        std::cout << "NO";
+        std::cout << "The file did not open";
     }
     std::cout <<"Total amount of funds paid = " << sum << std::endl;
     std::cout <<"The person with the maximum payout amount " << name << " " << max << std::endl;
